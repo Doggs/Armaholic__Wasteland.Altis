@@ -2238,7 +2238,7 @@ class Mission
 			vehicle="UserTexture1m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_1";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
 		};
 		class Item31
 		{
@@ -2250,7 +2250,7 @@ class Mission
 			vehicle="UserTexture10m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_4";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
 		};
 		class Item32
 		{
@@ -2262,7 +2262,7 @@ class Mission
 			vehicle="UserTexture1m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_5";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
 		};
 		class Item33
 		{
@@ -2274,7 +2274,7 @@ class Mission
 			vehicle="UserTexture1m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_6";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
 		};
 		class Item34
 		{
@@ -2286,7 +2286,7 @@ class Mission
 			vehicle="UserTexture1m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_3";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
 		};
 		class Item35
 		{
@@ -2308,7 +2308,7 @@ class Mission
 			vehicle="UserTexture1m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_5_1";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,-0.05,0.6]]; ";
 		};
 		class Item37
 		{
@@ -2425,7 +2425,7 @@ class Mission
 			vehicle="UserTexture1m_F";
 			skill=0.60000002;
 			text="PROMOTOR_GORACK_A_7";
-			init="this setObjectTexture [0, ""client\images\promoteTextures\gorack_dot_net-001.jpg""]; this attachTo [sign, [0,0,0]]; ";
+			init="this setObjectTexture [0, ""mapConfig\Loading.jpg""]; this attachTo [sign, [0,0,0]]; ";
 		};
 		class Item45
 		{
