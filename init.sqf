@@ -69,3 +69,4 @@ if (isServer) then
 [] execVM "addons\JumpMF\init.sqf";
 [] execVM "addons\gear\default_gear.sqf";
 [] execVM "addons\scripts\intro.sqf";
+[] execVM "addons\outlw_magRepack\MagRepack_init_sv.sqf";
