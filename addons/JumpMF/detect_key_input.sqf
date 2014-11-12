@@ -50,7 +50,7 @@ if (_pressedKey in actionKeys "GetOver") then
 				[
 					_prevVel select 0,
 					_prevVel select 1,
-					(velocity player) select 2
+					((velocity player) select 2) min 1
 				];
 
 				sleep 0.5; // Cooldown
